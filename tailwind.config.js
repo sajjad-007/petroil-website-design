@@ -4,6 +4,7 @@ tailwind.config = {
         colors: {
           clifford: '#da373d',
           headingbg: '#282828',
+          navbg: '#F40404',
         },
         spacing: {
             'container': '1144px',
