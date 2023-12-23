@@ -14,6 +14,9 @@ tailwind.config = {
         },
         backgroundImage: {
           'bannerimg': "linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)) ,url('./images/banner_img.jpg')",
+          'serviceimg1': "linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)) ,url('./images/service_img1.jpg')",
+          'serviceimg2': "linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)) ,url('./images/service_img2.png')",
+          'serviceimg3': "linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)) ,url('./images/service_img3.png')",
         }
       }
     }
